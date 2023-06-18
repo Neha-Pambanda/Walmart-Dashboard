@@ -1,4 +1,4 @@
-**# Walmart Dashboard in Tableau**
+# **Walmart Dashboard in Tableau**
 
 Welcome to the GitHub repository for the Walmart Dashboard built using Tableau. This repository contains the resources, data, and Tableau workbook for the interactive dashboard that provides valuable insights into Walmart's sales, inventory, and store performance.
 
