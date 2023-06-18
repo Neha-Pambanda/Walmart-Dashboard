@@ -34,6 +34,9 @@ Optionally, publish the dashboard to Tableau Server or Tableau Public to make it
 ## Data Source
 The data used in this dashboard is provided in the repository, sourced from Walmart's sales and inventory systems. It contains fictional data generated for demonstration purposes only.
 
+## Tableau Public dashboard link:
+https://public.tableau.com/views/WalmartDashboard_16871080945770/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 ## License
 This project is licensed under the MIT License.
 
