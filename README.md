@@ -1,4 +1,4 @@
-**#Walmart Dashboard in Tableau**
+**# Walmart Dashboard in Tableau**
 
 Welcome to the GitHub repository for the Walmart Dashboard built using Tableau. This repository contains the resources, data, and Tableau workbook for the interactive dashboard that provides valuable insights into Walmart's sales, inventory, and store performance.
 
@@ -16,7 +16,7 @@ Clone the repository to your local machine using the following command:
 
 bash
 Copy code
-git clone https://github.com/your-username/walmart-dashboard.git
+git clone https://github.com/Neha-Pambanda/walmart-dashboard.git
 Install Tableau Desktop on your computer if you haven't already.
 
 Open Tableau Desktop and navigate to the location where you cloned the repository.
